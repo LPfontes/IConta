@@ -1,2 +1,3 @@
 # IConta
-small intro project in c++
+Small intro project in c++
+Simple bank account simulation
